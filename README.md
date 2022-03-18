@@ -39,3 +39,15 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
   - React com typescript: ~51MB de memória ram
 
 `Aqui já podemos ver novamente a desvantagem do Electron com relação aos boilerplates.... Por não vir de uma unica fonte, cada desenvolvedor vai implementar as frameworks de alguma forma, as vezes, essas implementações custam memória ram`
+
+
+
+
+# Próximos
+## Windows Forms .net 6
+## Windows Forms .net Framework 4
+## MAUI
+## UWP 
+## Flutter
+## C++
+## C++ Qt
