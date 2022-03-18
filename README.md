@@ -51,3 +51,5 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
 ## Flutter
 ## C++
 ## C++ Qt
+## Java
+## Java FX
