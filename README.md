@@ -54,10 +54,6 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
 
 # Próximos
 
-## Windows Forms .net 6
-
-## Windows Forms .net Framework 4
-
 ## MAUI
 
 ## UWP
