@@ -33,23 +33,43 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
 - Electron
   - Vanilla (html): ~51MB de memória ram
   - React: ~60MB de memória ram (Executando o build)
+
+---
+
 - Tauri
   - Vanilla (html): ~51MB de memória ram
   - React com javascript: ~51MB de memória ram
   - React com typescript: ~51MB de memória ram
 
+---
+
+- Microsoft ("nativo")
+  - Windows Forms
+    - .net6: ~10MB
+    - .netFramework4: ~4MB
+  - WPF
+    - .net6: ~40MB
+
 `Aqui já podemos ver novamente a desvantagem do Electron com relação aos boilerplates.... Por não vir de uma unica fonte, cada desenvolvedor vai implementar as frameworks de alguma forma, as vezes, essas implementações custam memória ram`
 
-
-
-
 # Próximos
+
 ## Windows Forms .net 6
+
 ## Windows Forms .net Framework 4
+
 ## MAUI
-## UWP 
+
+## UWP
+
 ## Flutter
+
 ## C++
+
 ## C++ Qt
+
+## C++ gtk
+
 ## Java
+
 ## Java FX
