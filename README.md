@@ -50,7 +50,10 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
   - Windows Presentation Foundation (WPF)
     - .net6: ~40MB
   - .NET Multi-platform App UI (.NET MAUI)
-    - .net6: ~44MB [PS.: Eu tive diversos problemas pra execução e desenvolvimento desse programa isso se dá ao fato que o MAUI é uma versão preview. Eu não consegui gerar o build do projeto, tive que rodar como release (para não gastar memória com coisas de debug) direto do Visual Studio]
+    - .net6: ~46MB [PS.: Eu tive diversos problemas pra execução e desenvolvimento desse programa isso se dá ao fato que o MAUI é uma versão preview. Eu não consegui gerar o build do projeto, tive que rodar como release (para não gastar memória com coisas de debug) direto do Visual Studio]
+  - Universal Windows Platform (UWP) [PS.: teve o mesmo mal do MAUI e eu tive que rodar o build release (sem nada de debug) via Visual Studio]
+    - x86: ~14MB
+    - x64: ~9MB
 
 `Aqui já podemos ver novamente a desvantagem do Electron com relação aos boilerplates.... Por não vir de uma unica fonte, cada desenvolvedor vai implementar as frameworks de alguma forma, as vezes, essas implementações custam memória ram`
 
