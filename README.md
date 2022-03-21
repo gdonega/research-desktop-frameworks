@@ -44,17 +44,17 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
 ---
 
 - Microsoft ("nativo")
-  - Windows Forms
+  - Windows Forms (WinForms)
     - .net6: ~10MB
     - .netFramework4: ~4MB
-  - WPF
+  - Windows Presentation Foundation (WPF)
     - .net6: ~40MB
+  - .NET Multi-platform App UI (.NET MAUI)
+    - .net6: ~44MB [PS.: Eu tive diversos problemas pra execução e desenvolvimento desse programa isso se dá ao fato que o MAUI é uma versão preview. Eu não consegui gerar o build do projeto, tive que rodar como release (para não gastar memória com coisas de debug) direto do Visual Studio]
 
 `Aqui já podemos ver novamente a desvantagem do Electron com relação aos boilerplates.... Por não vir de uma unica fonte, cada desenvolvedor vai implementar as frameworks de alguma forma, as vezes, essas implementações custam memória ram`
 
 # Próximos
-
-## MAUI
 
 ## UWP
 
