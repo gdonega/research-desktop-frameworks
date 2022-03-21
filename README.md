@@ -59,8 +59,6 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
 
 # Próximos
 
-## UWP
-
 ## Flutter
 
 ## C++
