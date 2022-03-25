@@ -55,11 +55,14 @@ Os aplicativos criados devem ter o minimo de informação possivel e apenas uma 
     - x86: ~14MB
     - x64: ~9MB
 
+---
+
+- Flutter
+  - ~20MB de memória ram
+
 `Aqui já podemos ver novamente a desvantagem do Electron com relação aos boilerplates.... Por não vir de uma unica fonte, cada desenvolvedor vai implementar as frameworks de alguma forma, as vezes, essas implementações custam memória ram`
 
 # Próximos
-
-## Flutter
 
 ## C++
 
